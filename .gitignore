@@ -72,3 +72,5 @@ TheLastAI/Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 TheLastAI/DerivedDataCache/*
+TheLastAI/Content/Modular_Sci_Fi/Textures/T_Ground.uasset
+TheLastAI/Content/Modular_Sci_Fi/Textures/T_Ground1.uasset
